@@ -1,2 +1,3 @@
-# gwdgithubnom.github.com
-gwdgithubnom.github.com
+# Introduce
+This is my cv blog. gwdgithubnom.github.com
+# Contributors
